@@ -4,4 +4,4 @@ This project is not fully complete as of now, what needs to be done:
 2. Improve model prediction scores
 3. Visualize model performance
 
-the try.py and practicin.ipynb are just for testing, not part of the actual project
+the practicin.ipynb file is just for testing, not part of the actual project
